@@ -215,9 +215,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\WebAPI_KW14_ppedv\\WebAPI_Kurs\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Aktueller Kurs\\WebAPI_KW14_ppedv\\WebAPI_Kurs\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\WebAPI_KW14_ppedv\\WebAPI_Kurs\\WebApplication1\\ControllerSamples.csproj",
+      "projectName": "ControllerSamples",
+      "projectPath": "C:\\Aktueller Kurs\\WebAPI_KW14_ppedv\\WebAPI_Kurs\\WebApplication1\\ControllerSamples.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\WebAPI_KW14_ppedv\\WebAPI_Kurs\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",

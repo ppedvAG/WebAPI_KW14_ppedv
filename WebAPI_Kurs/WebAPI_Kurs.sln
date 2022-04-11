@@ -5,25 +5,30 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{32EAE84D-3198-47D1-B7BD-21466DCBE261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Single-responsibility-principle", "001_Single-responsibility-principle\001_Single-responsibility-principle.csproj", "{1366F4BF-ED30-44DD-8E48-2B28DB79C75F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Single-responsibility-principle", "001_Single-responsibility-principle\001_Single-responsibility-principle.csproj", "{1366F4BF-ED30-44DD-8E48-2B28DB79C75F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_open–closed principle", "002_open–closed principle\002_open–closed principle.csproj", "{3FB6C4BF-AA67-4A14-BCFB-0B939D0ACE56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_open–closed principle", "002_open–closed principle\002_open–closed principle.csproj", "{3FB6C4BF-AA67-4A14-BCFB-0B939D0ACE56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Liskov-substitution-principle", "003_Liskov-substitution-principle\003_Liskov-substitution-principle.csproj", "{CBB17C88-FF94-44C9-8B54-6BF3F736843A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Liskov-substitution-principle", "003_Liskov-substitution-principle\003_Liskov-substitution-principle.csproj", "{CBB17C88-FF94-44C9-8B54-6BF3F736843A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_interface segregation principle", "004_interface segregation principle\004_interface segregation principle.csproj", "{899DC51B-F27B-4518-97F7-1B17F6D38CED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_interface segregation principle", "004_interface segregation principle\004_interface segregation principle.csproj", "{899DC51B-F27B-4518-97F7-1B17F6D38CED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_DepedencyInversion", "005_DepedencyInversion\005_DepedencyInversion.csproj", "{95ECA1F7-FA5D-463B-9D8F-FD05DD29FD59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_DepedencyInversion", "005_DepedencyInversion\005_DepedencyInversion.csproj", "{95ECA1F7-FA5D-463B-9D8F-FD05DD29FD59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultWebAPI_NET5", "DefaultWebAPI_NET5\DefaultWebAPI_NET5.csproj", "{040AAC1E-49AF-4B00-BE4F-A9027A5DF88B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultWebAPI_NET5", "DefaultWebAPI_NET5\DefaultWebAPI_NET5.csproj", "{040AAC1E-49AF-4B00-BE4F-A9027A5DF88B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IOC Container", "IOC Container", "{5F689EED-65C8-4631-8060-EE0921F0360D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceCollectionAndServiceProvider", "ServiceCollectionAndServiceProvider\ServiceCollectionAndServiceProvider.csproj", "{9F3D2353-8BD1-48F7-9CE6-185236C45344}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceCollectionAndServiceProvider", "ServiceCollectionAndServiceProvider\ServiceCollectionAndServiceProvider.csproj", "{9F3D2353-8BD1-48F7-9CE6-185236C45344}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultWebAPI_NET6", "DefaultWebAPI_NET6\DefaultWebAPI_NET6.csproj", "{740BA5D7-0703-4878-AD85-DE9E4028BF7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultWebAPI_NET6", "DefaultWebAPI_NET6\DefaultWebAPI_NET6.csproj", "{740BA5D7-0703-4878-AD85-DE9E4028BF7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{79F54C5F-E0AC-46FE-8E88-ED235903ED3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControllerSamples", "WebApplication1\ControllerSamples.csproj", "{79F54C5F-E0AC-46FE-8E88-ED235903ED3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{61B44E47-28C3-4139-B18B-2875E7DFE3AD}"
+	ProjectSection(SolutionItems) = preProject
+		..\Agenda.md = ..\Agenda.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

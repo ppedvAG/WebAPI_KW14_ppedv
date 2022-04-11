@@ -10,7 +10,13 @@ WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
 //builder.Services = IServiceCollection        
 //In NET 5 wäre dieser Part die -> public void ConfigureServices(IServiceCollection services) - Methode
-builder.Services.AddControllers();
+
+builder.Services.AddControllers(); //Wir verwenden eine WebAPI 
+
+//builder.Services.AddControllersWithViews(); MVC 
+//builder.Services.AddRazorPages(); // Razor PAges Framework 
+
+builder.Services.AddMvc();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -35,14 +41,15 @@ using (IServiceScope scope = app.Services.CreateScope())
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
+    //Für Entwickler soll Swagger zugänglich sein oder Intern 
+    app.UseSwagger(); 
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseHttpsRedirection(); //Kann HTTPS
 
-app.UseAuthorization();
+app.UseAuthorization(); 
 
-app.MapControllers();
+app.MapControllers(); //Routing auf WebAPI Controller und dessen HTTPVerb - Methode
 
 app.Run();
