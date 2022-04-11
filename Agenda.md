@@ -7,14 +7,15 @@ Montag:
 - [x] Dependency Injections in WebAPI
 - [x] ServiceCollection + ServiceProvider in Console 
 - [x] Singleton / Scope / Transient  
-- [ ] Was ist ein RESTFul Service
-- [ ] Projektaufbau 
-- [ ] ControllerBase in aspnetcore Sourcecode
-- [ ] Return Values - Controller-Klasse
-- [ ] HTTP-Methoden (Get / Post / Put / Delete)
-- [ ] HttpVerbs in Verbindung mit Swagger (Swagger kann nicht ohne HttpVerb->z.B. HttpGet)
-- [ ] Formatter (CSV,XML)
-- [ ] Customize Formatter (VCARD) - ShowCase 
+- [x] Was ist ein RESTFul Service
+- [x] Projektaufbau 
+- [x] ControllerBase in aspnetcore Sourcecode
+- [x] Return Values - Controller-Klasse
+- [x] HTTP-Methoden (Get / Post / Put / Delete)
+- [x] HttpVerbs in Verbindung mit Swagger (Swagger kann nicht ohne HttpVerb->z.B. HttpGet)
+- [x] Konventionen
+- [x] Formatter (CSV,XML)
+- [x] Customize Formatter (VCARD) - ShowCase 
 - [ ] EF Core Anbindung 
 	- InMeomoryProvider
 	- SqlProvider kennengelernt -> Add-Migrations + Update-Database

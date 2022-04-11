@@ -169,5 +169,43 @@ namespace ControllerSamples.Controllers
 
         } //Wir verlassen hier die Methode
 
+
+        //Erst Ab ASP.NET Core 3.1 -> Fehlerfrei 
+        [HttpGet("GetCarIAsyncEnumerable")]
+        public async IAsyncEnumerable<Car> GetCarIEnumerableAsync()
+        {
+
+            Car car = new();
+            car.Id = 1;
+            car.Brand = "Porsche";
+            car.Model = "911er";
+
+
+            Car car1 = new();
+            car1.Id = 2;
+            car1.Brand = "Audi";
+            car1.Model = "Quatro";
+
+            Car car2 = new();
+            car2.Id = 3;
+            car2.Brand = "VW";
+            car2.Model = "Polo";
+
+            List<Car> carList = new List<Car>();
+            carList.Add(car);
+            carList.Add(car1);
+            carList.Add(car2);
+
+
+            foreach (Car currentCar in carList)
+            {
+                await Task.Delay(1000);
+                yield return currentCar; //Wir bleiben in der Schleife und geben jeden einzelenen Datensatz raus. 
+            }
+                
+
+
+        } //Wir verlassen hier die Methode
+
     }
 }

@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "WebApplication1": {
+    "ControllerSamples": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

@@ -1,0 +1,101 @@
+2022-04-11 17:09:45.879 +02:00 [INF] Now listening on: https://localhost:7088
+2022-04-11 17:09:45.925 +02:00 [INF] Now listening on: http://localhost:5088
+2022-04-11 17:09:45.932 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-11 17:09:45.934 +02:00 [INF] Hosting environment: Development
+2022-04-11 17:09:45.936 +02:00 [INF] Content root path: C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\WebApplication1\
+2022-04-11 17:09:47.625 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger - -
+2022-04-11 17:09:47.817 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger - - - 301 0 - 193.6496ms
+2022-04-11 17:09:47.822 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/index.html - -
+2022-04-11 17:09:48.010 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/index.html - - - 200 - text/html;charset=utf-8 187.9018ms
+2022-04-11 17:09:48.027 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - -
+2022-04-11 17:09:48.027 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - -
+2022-04-11 17:09:48.027 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - -
+2022-04-11 17:09:48.027 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - -
+2022-04-11 17:09:48.034 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 6.7860ms
+2022-04-11 17:09:48.096 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-04-11 17:09:48.096 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-04-11 17:09:48.096 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-04-11 17:09:48.098 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 71.1261ms
+2022-04-11 17:09:48.100 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 73.2377ms
+2022-04-11 17:09:48.102 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/swagger-ui.css - - - 200 143632 text/css 75.0707ms
+2022-04-11 17:09:49.176 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - -
+2022-04-11 17:09:49.458 +02:00 [WRN] An error occurred while trying to create an XmlSerializer for the type 'System.Collections.Generic.IAsyncEnumerable`1[[ControllerSamples.Models.Car, ControllerSamples, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+System.NotSupportedException: Cannot serialize interface System.Collections.Generic.IAsyncEnumerable`1[[ControllerSamples.Models.Car, ControllerSamples, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]].
+   at System.Xml.Serialization.TypeDesc.CheckSupported()
+   at System.Xml.Serialization.TypeScope.GetTypeDesc(Type type, MemberInfo source, Boolean directReference, Boolean throwOnError)
+   at System.Xml.Serialization.ModelScope.GetTypeModel(Type type, Boolean directReference)
+   at System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   at Microsoft.AspNetCore.Mvc.Formatters.XmlSerializerOutputFormatter.CreateSerializer(Type type)
+2022-04-11 17:09:49.610 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 433.1588ms
+2022-04-11 17:10:04.877 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/WeatherForecast - -
+2022-04-11 17:10:04.889 +02:00 [INF] Executing endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:04.910 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication1.WeatherForecast] Get() on controller WebApplication1.Controllers.WeatherForecastController (ControllerSamples).
+2022-04-11 17:10:05.011 +02:00 [INF] Executing action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) - Validation state: "Valid"
+2022-04-11 17:10:05.019 +02:00 [INF] DAS HEUTIGE WETTER
+2022-04-11 17:10:05.027 +02:00 [INF] Executed action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 3.6588ms.
+2022-04-11 17:10:05.036 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.WeatherForecast[]'.
+2022-04-11 17:10:05.049 +02:00 [INF] Executed action WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) in 125.7618ms
+2022-04-11 17:10:05.051 +02:00 [INF] Executed endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:05.052 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/WeatherForecast - - - 200 - application/json;+charset=utf-8 175.4028ms
+2022-04-11 17:10:06.844 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/WeatherForecast - -
+2022-04-11 17:10:06.847 +02:00 [INF] Executing endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:06.858 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication1.WeatherForecast] Get() on controller WebApplication1.Controllers.WeatherForecastController (ControllerSamples).
+2022-04-11 17:10:06.889 +02:00 [INF] Executing action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) - Validation state: "Valid"
+2022-04-11 17:10:06.891 +02:00 [INF] DAS HEUTIGE WETTER
+2022-04-11 17:10:06.892 +02:00 [INF] Executed action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.6989ms.
+2022-04-11 17:10:06.894 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.WeatherForecast[]'.
+2022-04-11 17:10:06.896 +02:00 [INF] Executed action WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) in 28.8304ms
+2022-04-11 17:10:06.898 +02:00 [INF] Executed endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:06.900 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/WeatherForecast - - - 200 - application/json;+charset=utf-8 55.4656ms
+2022-04-11 17:10:07.430 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/WeatherForecast - -
+2022-04-11 17:10:07.434 +02:00 [INF] Executing endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:07.438 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication1.WeatherForecast] Get() on controller WebApplication1.Controllers.WeatherForecastController (ControllerSamples).
+2022-04-11 17:10:07.459 +02:00 [INF] Executing action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) - Validation state: "Valid"
+2022-04-11 17:10:07.461 +02:00 [INF] DAS HEUTIGE WETTER
+2022-04-11 17:10:07.462 +02:00 [INF] Executed action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.3819ms.
+2022-04-11 17:10:07.465 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.WeatherForecast[]'.
+2022-04-11 17:10:07.466 +02:00 [INF] Executed action WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) in 25.4011ms
+2022-04-11 17:10:07.473 +02:00 [INF] Executed endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:07.474 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/WeatherForecast - - - 200 - application/json;+charset=utf-8 43.5993ms
+2022-04-11 17:10:07.950 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/WeatherForecast - -
+2022-04-11 17:10:07.954 +02:00 [INF] Executing endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:07.957 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication1.WeatherForecast] Get() on controller WebApplication1.Controllers.WeatherForecastController (ControllerSamples).
+2022-04-11 17:10:07.974 +02:00 [INF] Executing action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) - Validation state: "Valid"
+2022-04-11 17:10:07.976 +02:00 [INF] DAS HEUTIGE WETTER
+2022-04-11 17:10:07.977 +02:00 [INF] Executed action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.6735ms.
+2022-04-11 17:10:07.978 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.WeatherForecast[]'.
+2022-04-11 17:10:07.979 +02:00 [INF] Executed action WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) in 20.0677ms
+2022-04-11 17:10:07.982 +02:00 [INF] Executed endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:07.983 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/WeatherForecast - - - 200 - application/json;+charset=utf-8 33.0476ms
+2022-04-11 17:10:08.152 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/WeatherForecast - -
+2022-04-11 17:10:08.156 +02:00 [INF] Executing endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:08.159 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication1.WeatherForecast] Get() on controller WebApplication1.Controllers.WeatherForecastController (ControllerSamples).
+2022-04-11 17:10:08.183 +02:00 [INF] Executing action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) - Validation state: "Valid"
+2022-04-11 17:10:08.184 +02:00 [INF] DAS HEUTIGE WETTER
+2022-04-11 17:10:08.185 +02:00 [INF] Executed action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.8556ms.
+2022-04-11 17:10:08.187 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.WeatherForecast[]'.
+2022-04-11 17:10:08.189 +02:00 [INF] Executed action WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) in 23.6228ms
+2022-04-11 17:10:08.191 +02:00 [INF] Executed endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:08.193 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/WeatherForecast - - - 200 - application/json;+charset=utf-8 40.2565ms
+2022-04-11 17:10:08.293 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/WeatherForecast - -
+2022-04-11 17:10:08.296 +02:00 [INF] Executing endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:08.300 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication1.WeatherForecast] Get() on controller WebApplication1.Controllers.WeatherForecastController (ControllerSamples).
+2022-04-11 17:10:08.324 +02:00 [INF] Executing action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) - Validation state: "Valid"
+2022-04-11 17:10:08.325 +02:00 [INF] DAS HEUTIGE WETTER
+2022-04-11 17:10:08.326 +02:00 [INF] Executed action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.8719ms.
+2022-04-11 17:10:08.328 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.WeatherForecast[]'.
+2022-04-11 17:10:08.330 +02:00 [INF] Executed action WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) in 25.2743ms
+2022-04-11 17:10:08.332 +02:00 [INF] Executed endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:08.333 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/WeatherForecast - - - 200 - application/json;+charset=utf-8 40.5876ms
+2022-04-11 17:10:08.566 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7088/WeatherForecast - -
+2022-04-11 17:10:08.568 +02:00 [INF] Executing endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:08.569 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApplication1.WeatherForecast] Get() on controller WebApplication1.Controllers.WeatherForecastController (ControllerSamples).
+2022-04-11 17:10:08.590 +02:00 [INF] Executing action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) - Validation state: "Valid"
+2022-04-11 17:10:08.591 +02:00 [INF] DAS HEUTIGE WETTER
+2022-04-11 17:10:08.593 +02:00 [INF] Executed action method WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.5475ms.
+2022-04-11 17:10:08.594 +02:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.WeatherForecast[]'.
+2022-04-11 17:10:08.595 +02:00 [INF] Executed action WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples) in 22.4264ms
+2022-04-11 17:10:08.598 +02:00 [INF] Executed endpoint 'WebApplication1.Controllers.WeatherForecastController.Get (ControllerSamples)'
+2022-04-11 17:10:08.600 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7088/WeatherForecast - - - 200 - application/json;+charset=utf-8 33.1637ms
