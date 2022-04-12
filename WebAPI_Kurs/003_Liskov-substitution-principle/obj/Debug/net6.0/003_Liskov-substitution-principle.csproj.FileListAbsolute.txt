@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\bin\Debug\net6.0\003_Liskov-substitution-principle.exe
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\bin\Debug\net6.0\003_Liskov-substitution-principle.deps.json
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\bin\Debug\net6.0\003_Liskov-substitution-principle.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\bin\Debug\net6.0\003_Liskov-substitution-principle.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\bin\Debug\net6.0\003_Liskov-substitution-principle.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\003_Liskov-substitution-principle.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\003_Liskov-substitution-principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\003_Liskov-substitution-principle.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\003_Liskov-substitution-principle.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\003_Liskov-substitution-principle.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\003_Liskov-substitution-principle.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\refint\003_Liskov-substitution-principle.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\003_Liskov-substitution-principle.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\003_Liskov-substitution-principle.genruntimeconfig.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\003_Liskov-substitution-principle\obj\Debug\net6.0\ref\003_Liskov-substitution-principle.dll

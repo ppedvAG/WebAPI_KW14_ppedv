@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVeK5YA28oiHBgn0Qx9V7/tilrzO54vJsPPpp28F+v0ccXbJV6mSNJUniSHsSunceobJtE6K9kmSzvFwZ5JBZg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\WebAPI_KW14_ppedv\\WebAPI_Kurs\\MovieClient\\MovieClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

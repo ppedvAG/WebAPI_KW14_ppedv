@@ -1,9 +1,25 @@
-using ControllerSamples.Data;
+﻿using ControllerSamples.Data;
 using WebApiContrib.Core.Formatter.Csv;
 using Serilog;
 using Serilog.Events;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using ControllerSamples.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<MovieDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MovieDbContext")));
+
+
+
+builder.Services.AddDbContext<ContactDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ContactDbContext")));
+
+
+//HttpClient wird via IHttpClient Factory in Service (Konstruktur Injection) zur Verfügung gestellt
+builder.Services.AddHttpClient<IVideoService, VideoService>();
+builder.Services.AddTransient<IFileService, FileService>();
 
 
 Log.Logger = new LoggerConfiguration()

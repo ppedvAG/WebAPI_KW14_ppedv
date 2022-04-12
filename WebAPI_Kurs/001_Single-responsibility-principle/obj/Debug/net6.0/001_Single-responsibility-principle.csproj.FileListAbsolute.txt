@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\bin\Debug\net6.0\001_Single-responsibility-principle.exe
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\bin\Debug\net6.0\001_Single-responsibility-principle.deps.json
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\bin\Debug\net6.0\001_Single-responsibility-principle.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\bin\Debug\net6.0\001_Single-responsibility-principle.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\bin\Debug\net6.0\001_Single-responsibility-principle.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\001_Single-responsibility-principle.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\001_Single-responsibility-principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\001_Single-responsibility-principle.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\001_Single-responsibility-principle.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\001_Single-responsibility-principle.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\001_Single-responsibility-principle.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\refint\001_Single-responsibility-principle.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\001_Single-responsibility-principle.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\001_Single-responsibility-principle.genruntimeconfig.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\001_Single-responsibility-principle\obj\Debug\net6.0\ref\001_Single-responsibility-principle.dll

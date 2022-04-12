@@ -27,8 +27,8 @@ Dienstag:
 	- [ ] CRUD abgebildet ->MVC/WEbAPI Sample
 - [ ] Content Negotation (30 Minuten)
 - [ ] Broadcast Videoübertragung via WebAPI
-- [ ] Authentifizierung via Identity UI -> User Accounts
-- [ ] HttpClient mit BearerToken
+- [x] Authentifizierung via Identity UI -> User Accounts
+- [x] HttpClient mit BearerToken
 - [ ] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
 - [ ] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
 - [ ] Minimal API -> wird erst in .NET 7 interessant

@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\AppClientWithBearerToken.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\AppClientWithBearerToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\AppClientWithBearerToken.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\AppClientWithBearerToken.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\AppClientWithBearerToken.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\bin\Debug\net6.0\AppClientWithBearerToken.exe
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\bin\Debug\net6.0\AppClientWithBearerToken.deps.json
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\bin\Debug\net6.0\AppClientWithBearerToken.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\bin\Debug\net6.0\AppClientWithBearerToken.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\bin\Debug\net6.0\AppClientWithBearerToken.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\AppClientWithBearerToken.csproj.CopyComplete
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\AppClientWithBearerToken.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\refint\AppClientWithBearerToken.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\AppClientWithBearerToken.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\AppClientWithBearerToken.genruntimeconfig.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\AppClientWithBearerToken\obj\Debug\net6.0\ref\AppClientWithBearerToken.dll

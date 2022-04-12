@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\bin\Debug\net6.0\005_DepedencyInversion.exe
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\bin\Debug\net6.0\005_DepedencyInversion.deps.json
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\bin\Debug\net6.0\005_DepedencyInversion.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\bin\Debug\net6.0\005_DepedencyInversion.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\bin\Debug\net6.0\005_DepedencyInversion.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\005_DepedencyInversion.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\005_DepedencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\005_DepedencyInversion.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\005_DepedencyInversion.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\005_DepedencyInversion.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\005_DepedencyInversion.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\refint\005_DepedencyInversion.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\005_DepedencyInversion.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\005_DepedencyInversion.genruntimeconfig.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\005_DepedencyInversion\obj\Debug\net6.0\ref\005_DepedencyInversion.dll

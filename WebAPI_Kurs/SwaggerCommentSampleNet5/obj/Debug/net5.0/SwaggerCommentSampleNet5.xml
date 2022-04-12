@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerCommentSampleNet5</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerCommentSampleNet5.Controllers.WeatherForecastController.Get">
+            <summary>
+            Wetterdaten sind zu dieser Jahrezeit einfach kalt
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\bin\Debug\net6.0\SharedLib.deps.json
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\bin\Debug\net6.0\SharedLib.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\bin\Debug\net6.0\SharedLib.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\obj\Debug\net6.0\SharedLib.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\obj\Debug\net6.0\SharedLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\obj\Debug\net6.0\SharedLib.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\obj\Debug\net6.0\SharedLib.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\obj\Debug\net6.0\SharedLib.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\obj\Debug\net6.0\SharedLib.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\obj\Debug\net6.0\refint\SharedLib.dll
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\obj\Debug\net6.0\SharedLib.pdb
+C:\Aktueller Kurs\WebAPI_KW14_ppedv\WebAPI_Kurs\SharedLib\obj\Debug\net6.0\ref\SharedLib.dll

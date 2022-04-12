@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerCommentsSample</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerCommentsSample.Controllers.MoviesController.GetMovie">
+            <summary>
+            Lese komplette Movie-Liste aus
+            </summary>
+            <returns>IEnumberable von Movies</returns>
+        </member>
+        <member name="M:SwaggerCommentsSample.Controllers.MoviesController.GetMovie(System.Int32)">
+            <summary>
+            Lese Movie mit Id aus
+            </summary>
+            <param name="id">Identifier</param>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerCommentsSample.Controllers.MoviesController.PostMovie(SwaggerCommentsSample.Models.Movie)">
+            <summary>
+            Füge Movie hinzu
+            </summary>
+            <param name="movie"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerCommentsSample.Controllers.WeatherForecastController.Get">
+            <summary>
+            Lese Wetterdaten aus
+            </summary>
+            <returns>IEnumerable of WeatherForecast</returns>
+        </member>
+    </members>
+</doc>
